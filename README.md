@@ -1,6 +1,6 @@
 ## Cientista de Dados para Energia Sustentável!
 
-Mestrando em Gestão de Energia, aplicando Machine Learning para construir um futuro mais sustentável.
+Estudante de Gestão de Energia, aplicando Machine Learning para construir um futuro mais sustentável.
 Meu objetivo se concentra em usar algoritmos para otimizar o consumo e prever padrões de demanda.
 O objetivo é transformar dados brutos em decisões inteligentes que impulsionem a eficiência e reduzam o impacto ambiental.
 
